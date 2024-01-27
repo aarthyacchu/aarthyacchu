@@ -1,3 +1,4 @@
+![logo](https://github.com/aarthyacchu/aarthyacchu/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Arthi. S</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
